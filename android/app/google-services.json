@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "370206867386",
+    "firebase_url": "https://carebridge-5fc45-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carebridge-5fc45",
+    "storage_bucket": "carebridge-5fc45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370206867386:android:c22b64fd1bcd29141f2783",
+        "android_client_info": {
+          "package_name": "com.example.carebridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQtirRiDx-hidMOpcaYuEHl9z0NASPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
