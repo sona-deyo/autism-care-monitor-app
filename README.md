@@ -1,16 +1,42 @@
-# carebridge
+# Autism Care Monitor App
 
-A new Flutter project.
+A comprehensive Flutter + Firebase mobile app designed to support children with autism and their caregivers through physical growth tracking, developmental monitoring via games, structured daily schedules, and a community forum.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Core Features
 
-A few resources to get you started if this is your first Flutter project:
+### 📈 Growth Monitoring (WHO & IAP)
+- Record physical metrics: **height, weight, head circumference**
+- Compare against **WHO (World Health Organization)** and **IAP (Indian Academy of Pediatrics)** percentile charts
+- View historical trends with **interactive growth graphs**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🎮 Game-Based Development Monitor
+- Visual circular trackers for:
+  - **Cognitive games**
+  - **Sensory activities**
+  - **Language games** 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🗓️ Daily Schedule
+- Structured visual routines for children
+- Activity blocks with **add** and **delete** options
+
+### 👪 Community Forum
+- **Discussion board**: parents can ask questions, share advice, and comment
+- **Event calendar**: create, view, and delete events
+- **User stories**: real-life experiences from caregivers
+- **Resource library**: curated list of articles and reading materials
+
+---
+
+## 🔧 Tech Stack
+
+| Layer       | Stack                     |
+|-------------|---------------------------|
+| UI          | Flutter                   |
+| Auth        | Firebase Authentication   |
+| Database    | Firestore (NoSQL)         |
+| Storage     | Firebase Storage          |
+| Charts      | Syncfusion / fl_chart     |
+
+---
